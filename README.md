@@ -55,13 +55,13 @@ Personal portfolio website showcasing my skills, projects, and experience.
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryawanshi-Arjun&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryawanshi-Arjun&theme=radical" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryawanshi-Arjun&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryawanshi-Arjun&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryawanshi-Arjun&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryawanshi-Arjun&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
