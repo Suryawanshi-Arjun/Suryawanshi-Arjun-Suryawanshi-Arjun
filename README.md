@@ -22,7 +22,7 @@
 - 🤖 Recently worked on an **AI-powered mock interview platform** to help people practice for technical interviews.
 - 🌱 Currently learning: *(add what you're learning — e.g. Node.js, TypeScript, System Design)*
 - 📫 Open to **internship / entry-level opportunities** in Frontend / Full-Stack Development.
-- ⚡ Fun fact: *(optional — add something personal, e.g. "I love building typing games in my free time")*
+  
 
 ---
 
